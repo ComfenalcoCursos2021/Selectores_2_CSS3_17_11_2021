@@ -1,0 +1,40 @@
+/* Selector universal */
+/* ----------- */
+div#menu *{
+    color: white;
+    /* display: inline-block; */
+    background: red;
+    border: 5px solid #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Selector hermano general  */
+/* --------------------------- */
+/* div.articulo strong ~ span{
+    background: red;
+}
+  */
+
+
+
+
+
+
+
+
+
+
+/* Selector hermano adyacente */
+/* --------------------------- */
+/* div.articulo span + span{
+    color: red;
+} */
